@@ -1,1 +1,4 @@
-flask==2.3.2
+flask
+selenium
+beautifulsoup4
+pykakasi
